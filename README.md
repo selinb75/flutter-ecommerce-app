@@ -40,7 +40,7 @@ lib/
    ```
 2. Repoyu klonlayın:
    ```
-   git clone https://github.com/KULLANICI_ADI/REPO_ADI.git
+   git clone  https://github.com/selinb75/flutter-ecommerce-app.git
    cd REPO_ADI
    ```
 3. Bağımlılıkları yükleyin:
