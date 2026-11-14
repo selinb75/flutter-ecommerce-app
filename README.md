@@ -1,6 +1,9 @@
 # Mini Katalog Uygulaması
 
-Flutter ile geliştirilmiş basit bir ürün katalog uygulaması. Ürünler API'den çekilir, ana sayfada kart tabanlı bir listede gösterilir. Kullanıcı ürün detayına bakabilir, sepete ekleyebilir ve ödeme adımına geçebilir.
+Flutter ile geliştirilmiş basit bir ürün katalog uygulaması. Ürünler dummy JSON verisinden çekilir, ana sayfada kart tabanlı bir listede gösterilir. Kullanıcı ürün detayına bakabilir, sepete ekleyebilir ve ödeme adımına geçebilir.
+
+
+
 
 ## Özellikler
 
@@ -57,3 +60,4 @@ lib/
 ## Ekran Görüntüleri
 <img width="5404" height="2992" alt="Screenshot_1794685406" src="https://github.com/user-attachments/assets/35664394-32d6-4eec-a4c6-bb8104d6576a" />
 
+https://github.com/user-attachments/assets/2f5c40da-41fd-42ef-addc-e255b27ef971
